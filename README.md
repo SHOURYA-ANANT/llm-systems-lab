@@ -11,7 +11,7 @@ This project goes beyond tutorials and implements **real transformer internals**
 💡 Built as a realistic path toward applied-scientist roles in frontier AI.
 
 🔗 **Connect with me on LinkedIn:**  
-[https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/shourya-anant/)
+https://www.linkedin.com/in/shourya-anant/
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
